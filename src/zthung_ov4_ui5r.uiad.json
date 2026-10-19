@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Upload và quản lý thùng mẫu",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Quản lý thùng mẫu"
+  },
+  "ui5AppDetails": {
+    "appId": "zthungov4"
+  },
+  "navigation": {
+    "targetMappingId": "ZTHUNG_OV4_UI5R_TM",
+    "semanticObject": "zthung_ov4",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "ZTHUNG_OV4_UI5R_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Quản lý thùng mẫu"
+      }
+    }
+  ]
+}
